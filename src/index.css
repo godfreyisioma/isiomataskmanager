@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Open san", roboto;
+}
+
+body {
+    background-image: url('./image/Run-Poster.png');
+}
